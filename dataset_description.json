@@ -1,0 +1,15 @@
+{
+    "Name": "FT",
+    "License": "CC0",
+    "Authors": [
+        "Tony Johnson",
+        "Stephen Gordon",
+        "Jon Touryan",
+        "Kevin King"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0"
+}
